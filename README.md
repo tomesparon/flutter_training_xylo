@@ -1,10 +1,11 @@
 # xylo
 
-A new Flutter project.
+A training Flutter project from Udemy.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Screenshot:
+
+<img src="https://github.com/tomesparon/flutter_training_xylo/blob/master/screenshot.jpg" alt="image description" width="30%">
 
 A few resources to get you started if this is your first Flutter project:
 
